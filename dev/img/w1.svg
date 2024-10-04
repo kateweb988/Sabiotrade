@@ -1,0 +1,21 @@
+<svg width="356" height="224" viewBox="0 0 356 224" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6_3645)">
+<g style="mix-blend-mode:plus-lighter" opacity="0.8">
+<circle cx="197.5" cy="510.5" r="480.5" fill="url(#paint0_radial_6_3645)"/>
+</g>
+<circle cx="166.5" cy="-274.5" r="361.5" fill="url(#paint1_radial_6_3645)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_6_3645" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(163.322 468.28) rotate(-137.904) scale(392.869)">
+<stop stop-color="#D700FA"/>
+<stop offset="1" stop-color="#5000FA" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_6_3645" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(165.571 -275.429) rotate(-4.49589) scale(345.787)">
+<stop stop-color="#87A4DD"/>
+<stop offset="1" stop-color="#00F3F3" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_6_3645">
+<rect width="356" height="224" rx="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
